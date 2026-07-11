@@ -20,7 +20,7 @@
 
 ### 🖥️ My Portfolio:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://iamkoushik1999.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://iamkoushik1999.vercel.app)
 <br />
 
 ### 📋 Programming Languages:
@@ -30,12 +30,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 <br />
 
 ### 💻 Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 <br />
 
 ### 📚 Frameworks, Platforms and Libraries:
@@ -86,6 +87,14 @@
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 <br />
 
+### 🤖 Artificial Intelligence and Bots
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/ClaudeCode-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+<br />
+
 ## 🔥 My Github Streak
 
 <p align="center">
@@ -94,10 +103,10 @@
    
  ## 📊 My Github Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=iamkoushik1999&theme=dark&rank_icon=github&show_icons=true&include_all_commits=true&hide=stars" />
   <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkoushik1999&layout=compact&theme=dark&langs_count=8&card_width=320&hide=c,shell,scss,php" />
-</p>
+</p> -->
 
 ![Koushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamkoushik1999&theme=react-dark)
 
