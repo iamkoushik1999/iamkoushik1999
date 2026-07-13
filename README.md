@@ -82,10 +82,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br />
 
-### 📱 Smartphone Brands:
+<!-- ### 📱 Smartphone Brands:
 
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
-<br />
+<br /> -->
 
 ### 🤖 Artificial Intelligence and Bots
 
